@@ -62,3 +62,17 @@
 // let formula = summClient - (result * priceChocolate);
 
 // alert(`Ви зможете купити ${result} шоколадок і отримаєте ${formula}грн здачі`);
+
+
+// Task 9
+
+// Ні як не можу зрозуміти суті самого завдання...
+
+
+// Task 10
+
+
+// let number = +prompt("Введіть ціле число: ");
+
+// let result = number % 2 == 0 ? "even" : "odd";
+// console.log(result);
